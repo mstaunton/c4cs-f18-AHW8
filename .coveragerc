@@ -2,4 +2,4 @@
 [run]
 # don't report on coverage of files in the tests dir itself
 omit = 
-  home/
+  /home/travis/*
