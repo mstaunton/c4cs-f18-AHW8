@@ -1,5 +1,10 @@
 language: python
 python:
    - "3.5"
+before-install:
+   - pip install pytest pytest-cov
+   - pip install coveralls
 script:
    - python3 -m unittest
+after_sucess:
+   - coveralls
