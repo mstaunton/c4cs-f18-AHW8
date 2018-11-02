@@ -1,5 +1,7 @@
-# Repository for Advanced Homework8
+# Welcome newbie open source contributors! 
 
-[![Build Status](https://travis-ci.org/mstaunton/c4cs-f18-AHW8.svg?branch=master](https://travis-ci.org/mstaunton/c4cs-f18-AHW8)
+[![Build Status](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source.svg?branch=master)](https://travis-ci.org/freeCodeCamp/how-to-contribute-to-open-source)
 
-This should have added the Travis CI badge.
+This is a list of resources for people who are new to contributing to open source.
+
+...
